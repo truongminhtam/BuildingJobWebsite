@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b660db2a.chunk.css",
+    "main.js": "/static/js/main.0d35e593.chunk.js",
+    "main.js.map": "/static/js/main.0d35e593.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc348502.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc348502.js.map",
+    "static/css/2.fc2db407.chunk.css": "/static/css/2.fc2db407.chunk.css",
+    "static/js/2.45e7abfc.chunk.js": "/static/js/2.45e7abfc.chunk.js",
+    "static/js/2.45e7abfc.chunk.js.map": "/static/js/2.45e7abfc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fc2db407.chunk.css.map": "/static/css/2.fc2db407.chunk.css.map",
+    "static/css/main.b660db2a.chunk.css.map": "/static/css/main.b660db2a.chunk.css.map",
+    "static/js/2.45e7abfc.chunk.js.LICENSE.txt": "/static/js/2.45e7abfc.chunk.js.LICENSE.txt",
+    "static/media/1227.af0d3036.gif": "/static/media/1227.af0d3036.gif",
+    "static/media/CvHome.scss": "/static/media/7.07ca677f.jpg",
+    "static/media/chan_dung.7b208bab.jpg": "/static/media/chan_dung.7b208bab.jpg",
+    "static/media/coffee-1276781.802117b4.jpg": "/static/media/coffee-1276781.802117b4.jpg",
+    "static/media/Contact.scss": "/static/media/cup-of-coffee-1280537.6a38181e.jpg",
+    "static/media/logoNew2.022b877e.png": "/static/media/logoNew2.022b877e.png",
+    "static/media/logocty.f014210d.png": "/static/media/logocty.f014210d.png",
+    "static/media/Banner.scss": "/static/media/notebook-1971495.95a22b25.jpg",
+    "static/media/phong-lam-viec-day-du-anh-sang.406a25c1.jpg": "/static/media/phong-lam-viec-day-du-anh-sang.406a25c1.jpg",
+    "static/media/xinviec.4739b8bf.jpg": "/static/media/xinviec.4739b8bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc348502.js",
+    "static/css/2.fc2db407.chunk.css",
+    "static/js/2.45e7abfc.chunk.js",
+    "static/css/main.b660db2a.chunk.css",
+    "static/js/main.0d35e593.chunk.js"
+  ]
+}
